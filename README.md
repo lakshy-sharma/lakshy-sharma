@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-A developer trying to fixated on understanding how computers work and making awesome software.
+A developer fixated on understanding how computers work and making awesome software.
 
 
 <!--
