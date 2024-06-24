@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-A developer fixated on understanding how computers work and making awesome software.
+I am Lakshy.
+I develop software do some research here and there and believe in having a good time.
+If you find something interesting, do let me know.
 
 
 <!--
